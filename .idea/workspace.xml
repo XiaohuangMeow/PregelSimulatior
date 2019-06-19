@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94288967-d904-44e1-b6e0-cecf063e65e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partition/save9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pregel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Result/PageRank.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/Aggregator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/Combiner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/Master.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/PageRankAggregator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/PageRankCombiner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/PageRankMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/PageRankVertex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/Vertex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Pregel/model/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Aggregator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Combiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/PageRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/PageRankAggregator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/PageRankCombiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/PageRankMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/PageRankVertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/SSSP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/SSSPCombiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/SSSPMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/SSSPVertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Statisticians.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-Google.txt" afterDir="false" />
-    </list>
+    <list default="true" id="94288967-d904-44e1-b6e0-cecf063e65e0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +13,7 @@
     <session id="-522886448">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -146,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/SSSP.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Result/SSSP.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="17271" column="10" lean-forward="true" selection-start-line="17271" selection-start-column="10" selection-end-line="17271" selection-end-column="10" />
+            <state relative-caret-position="-5643">
+              <caret line="3" column="67" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -246,7 +198,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="472" />
+    <option name="x" value="471" />
     <option name="width" value="1765" />
     <option name="height" value="1030" />
   </component>
@@ -293,7 +245,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560962106788" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560962156613" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -355,14 +307,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.5020161" side_tool="true" visible="true" weight="0.12868632" />
+      <window_info id="Favorites" order="3" sideWeight="0.50141644" side_tool="true" visible="true" weight="0.12868632" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49798387" visible="true" weight="0.12868632" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49858356" visible="true" weight="0.12868632" />
       <window_info id="Structure" order="6" sideWeight="0.50098234" side_tool="true" weight="0.11997319" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3281471" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
@@ -371,7 +322,7 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Thumbnails" order="5" weight="0.32900432" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49944994" visible="true" weight="0.29745042" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49944994" weight="0.29745042" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -546,13 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Result/SSSP.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="17271" column="10" lean-forward="true" selection-start-line="17271" selection-start-column="10" selection-end-line="17271" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/model/Statisticians.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
@@ -583,10 +527,17 @@
     <entry file="file://$PROJECT_DIR$/src/model/SSSP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result/SSSP.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5643">
+          <caret line="3" column="67" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="67" />
         </state>
       </provider>
     </entry>
